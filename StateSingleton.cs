@@ -1,13 +1,11 @@
-﻿using MCE_API_SERVER.Models.Features;
-using MCE_API_SERVER.Models.Login;
-using MCE_API_SERVER.Models.Player;
-using MCE_API_SERVER.Utils;
+﻿using Dx2_API_SERVER.Models.Login;
+using Dx2_API_SERVER.Utils;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace MCE_API_SERVER
+namespace Dx2_API_SERVER
 {
     public static class StateSingleton
     {

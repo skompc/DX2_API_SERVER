@@ -4,7 +4,8 @@ using System.IO;
 using System.Text;
 using Xamarin.Forms;
 
-namespace MCE_API_SERVER
+//namespace MCE_API_SERVER
+namespace Dx2_API_SERVER
 {
     public static class Log
     {

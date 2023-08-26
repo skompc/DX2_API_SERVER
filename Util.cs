@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Essentials;
 
-namespace MCE_API_SERVER
+namespace Dx2_API_SERVER
 {
     public static class Util
     {

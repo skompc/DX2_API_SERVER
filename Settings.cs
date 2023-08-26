@@ -2,9 +2,14 @@
 using System;
 using System.Text;
 
-using static MCE_API_SERVER.Util;
+//using static MCE_API_SERVER.Util;
+using static Dx2_API_SERVER.Util
 
-namespace MCE_API_SERVER
+//namespace MCE_API_SERVER
+namespace Dx2_API_SERVER
+{
+    
+}
 {
     public static class Settings
     {

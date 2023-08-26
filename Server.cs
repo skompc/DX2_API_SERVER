@@ -14,7 +14,8 @@ using System.Reflection;
 using System.Text;
 using System.Threading;
 
-namespace MCE_API_SERVER
+//namespace MCE_API_SERVER
+namespace Dx2_API_SERFVER
 {
     public static class Server
     {
@@ -164,11 +165,11 @@ namespace MCE_API_SERVER
 
         public static bool Start()
         {
-            if (!Util.ServerFileExists("resourcepacks/vanilla.zip")) {
-                if (!Directory.Exists(Util.SavePath_Server + "resourcepacks"))
-                    Directory.CreateDirectory(Util.SavePath_Server + "resourcepacks");
-                return false;
-            }
+//            if (!Util.ServerFileExists("resourcepacks/vanilla.zip")) {
+//                if (!Directory.Exists(Util.SavePath_Server + "resourcepacks"))
+//                    Directory.CreateDirectory(Util.SavePath_Server + "resourcepacks");
+//                return false;
+//            }
 
             if (!initialized)
                 Init();

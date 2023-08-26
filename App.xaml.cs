@@ -1,7 +1,8 @@
 ﻿using System;
 using Xamarin.Forms;
 
-namespace MCE_API_SERVER
+//namespace MCE_API_SERVER
+namespace Dx2_API_SERVER
 {
     public partial class App : Application
     {

@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MCE_API_SERVER
+//namespace MCE_API_SERVER
+namespace Dx2_API_SERVER
 {
     public static class MathPlus
     {
